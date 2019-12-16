@@ -22,7 +22,7 @@
 
 VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、稳定且性价比高，按小时计费，能够随时开通和删除服务器，新服务器即是新ip。
 
-vultr注册地址：https://www.vultr.com/?ref=8346568 （新用户通过此活动链接注册，赠送50美元，有效期1个月。全球15个服务器位置可选，KVM框架，最低2.5美元/月。）如果以后这个vultr注册地址被墙了，那么就用翻墙软件打开，或者用[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
+vultr注册地址：https://www.vultr.com/?ref=8346569-4F （新用户通过此活动链接注册，赠送50美元，有效期1个月。全球15个服务器位置可选，KVM框架，最低2.5美元/月。）如果以后这个vultr注册地址被墙了，那么就用翻墙软件打开，或者用[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss免费账号)
 
 [![img](https://camo.githubusercontent.com/e5b4fc7834baffafe9883ac40cc7f296e62f9741/68747470733a2f2f7777772e76756c74722e636f6d2f6d656469612f62616e6e65725f322e706e67)](https://www.vultr.com/?ref=7777564-4F)
 
